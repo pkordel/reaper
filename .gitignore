@@ -1,12 +1,11 @@
 ReaPack/cache/
+ReaPack/registry.db
 reaper-auplugins64.ini
 reaper-auplugins64-bc.ini
 reaper-midihw.ini
-reaper-mouse.ini
 reaper-recentfx.ini
 reaper-reginfo2.ini
 reaper-vstplugins64.ini
 reaper-vstshells64.ini
 reaper-wndpos.ini
 reaper.ini
-ReaPack/registry.db
